@@ -12,6 +12,7 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 4. | [Plant Deseases Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Plant_Deseases_Prediction.ipynb) | Convolutional Neural Network which will be able to predict whether a plant is suffering from a disease.|
 | 5. | [Vehicle Detect Counts](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Vehicle_Detect_Counts.ipynb) | Detecting and counting vehicles in a given image or a video. |
 | 6. | [Face Swap](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Face_Swap.ipynb) | Extract faces of human-beings from a given image. We will use a pretrained model to extract landmarks from the faces. |
+| 7. | [Bird Species Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Bird_Species_Prediction.ipynb) | Convolutional Neural Network which will be able to predict species of the bird. Use different layers and other hyperparameters for building, training and testing this multiclass classifictaion model. |
 
 
 
