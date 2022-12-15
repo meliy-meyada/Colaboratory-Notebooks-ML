@@ -15,8 +15,7 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 7. | [Bird Species Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Bird_Species_Prediction.ipynb) | Convolutional Neural Network which will be able to predict species of the bird. Use different layers and other hyperparameters for building, training and testing this multiclass classifictaion model. |
 | 8. | [Intel Image Classification](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Intel_Image_Classification.ipynb) | Convolutional neural network and train it on this images. This is a multi class classification problem and use Keras. |
 | 9. | [Language Translation using IBM Watson](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Language_Translation_using_IBM_Watson.ipynb) | Python will be used to capture the text, after which it will be sent to the IBM cloud to be translated into the chosen language. Watson AI will then be used to turn the translated text into a speech, and the file will then be output. |
-
-
+| 10. | [Laptop Price Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Laptop_Price_Predictor.ipynb) | |
 
 
 ---
