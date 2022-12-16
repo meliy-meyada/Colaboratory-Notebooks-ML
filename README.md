@@ -16,6 +16,7 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 8. | [Intel Image Classification](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Intel_Image_Classification.ipynb) | Convolutional neural network and train it on this images. This is a multi class classification problem and use Keras. |
 | 9. | [Language Translation using IBM Watson](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Language_Translation_using_IBM_Watson.ipynb) | Python will be used to capture the text, after which it will be sent to the IBM cloud to be translated into the chosen language. Watson AI will then be used to turn the translated text into a speech, and the file will then be output. |
 | 10. | [Laptop Price Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Laptop_Price_Predictor.ipynb) | Price variations and laptop types Prediction |
+| 11. | [Course Recommendation System](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Course_Recommendation_System.ipynb) | Course Recommendation System using Udemy Dataset. Cosine and Linear Similarity |
 
 
 ---
