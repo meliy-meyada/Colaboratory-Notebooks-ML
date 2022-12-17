@@ -18,6 +18,8 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 10. | [Laptop Price Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Laptop_Price_Predictor.ipynb) | Price variations and laptop types Prediction |
 | 11. | [Course Recommendation System](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Course_Recommendation_System.ipynb) | Course Recommendation System using Udemy Dataset. Cosine and Linear Similarity |
 | 12. | [EDA on udemyDataset](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/EDA_on_udemyDataset.ipynb) | Exploratory Data Analysis on UdemyDataset |
+| 13. | [IPL Win Probability Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/IPL_Win_Probability_Predictor.ipynb) |  Indian Premier League (IPL) Win Probability Predictor |
+
 
 
 ---
