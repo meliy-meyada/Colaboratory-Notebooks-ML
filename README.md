@@ -22,6 +22,7 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 14. | [Book Genre Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Book_Genre_Prediction.ipynb) | Book generate Predictions. |
 | 15. | [Sentiment LG](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Sentiment_LG.ipynb) | Sentiment analysis of Logistic Regression. |
 | 16. | [Attrition Rate](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Attrition_Rate.ipynb) | Employee Attrition Rate Prediction. |
+| 17. | [Pokemon](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Pokemon.ipynb) | Pokemon for Data Mining and Machine Learning. |
 
 
 
