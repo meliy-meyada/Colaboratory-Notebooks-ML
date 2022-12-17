@@ -20,6 +20,7 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 12. | [EDA on udemyDataset](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/EDA_on_udemyDataset.ipynb) | Exploratory Data Analysis on UdemyDataset |
 | 13. | [IPL Win Probability Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/IPL_Win_Probability_Predictor.ipynb) |  Indian Premier League (IPL) Win Probability Predictor |
 | 14. | [Book Genre Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Book_Genre_Prediction.ipynb) | Book generate Predictions |
+| 15. | [Sentiment LG](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Sentiment_LG.ipynb) | Sentiment analysis of Logistic Regression |
 
 
 
