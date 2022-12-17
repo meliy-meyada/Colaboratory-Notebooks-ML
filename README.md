@@ -15,12 +15,13 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 7. | [Bird Species Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Bird_Species_Prediction.ipynb) | Convolutional Neural Network which will be able to predict species of the bird. Use different layers and other hyperparameters for building, training and testing this multiclass classifictaion model. |
 | 8. | [Intel Image Classification](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Intel_Image_Classification.ipynb) | Convolutional neural network and train it on this images. This is a multi class classification problem and use Keras. |
 | 9. | [Language Translation using IBM Watson](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Language_Translation_using_IBM_Watson.ipynb) | Python will be used to capture the text, after which it will be sent to the IBM cloud to be translated into the chosen language. Watson AI will then be used to turn the translated text into a speech, and the file will then be output. |
-| 10. | [Laptop Price Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Laptop_Price_Predictor.ipynb) | Price variations and laptop types Prediction |
-| 11. | [Course Recommendation System](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Course_Recommendation_System.ipynb) | Course Recommendation System using Udemy Dataset. Cosine and Linear Similarity |
-| 12. | [EDA on udemyDataset](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/EDA_on_udemyDataset.ipynb) | Exploratory Data Analysis on UdemyDataset |
-| 13. | [IPL Win Probability Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/IPL_Win_Probability_Predictor.ipynb) |  Indian Premier League (IPL) Win Probability Predictor |
-| 14. | [Book Genre Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Book_Genre_Prediction.ipynb) | Book generate Predictions |
-| 15. | [Sentiment LG](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Sentiment_LG.ipynb) | Sentiment analysis of Logistic Regression |
+| 10. | [Laptop Price Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Laptop_Price_Predictor.ipynb) | Price variations and laptop types Prediction. |
+| 11. | [Course Recommendation System](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Course_Recommendation_System.ipynb) | Course Recommendation System using Udemy Dataset. Cosine and Linear Similarity. |
+| 12. | [EDA on udemyDataset](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/EDA_on_udemyDataset.ipynb) | Exploratory Data Analysis on UdemyDataset. |
+| 13. | [IPL Win Probability Predictor](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/IPL_Win_Probability_Predictor.ipynb) |  Indian Premier League (IPL) Win Probability Predictor. |
+| 14. | [Book Genre Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Book_Genre_Prediction.ipynb) | Book generate Predictions. |
+| 15. | [Sentiment LG](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Sentiment_LG.ipynb) | Sentiment analysis of Logistic Regression. |
+| 16. | [Attrition Rate](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Attrition_Rate.ipynb) | Employee Attrition Rate Prediction. |
 
 
 
