@@ -26,6 +26,7 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 18. | [Cat vs Dogs](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Cat_vs_Dogs.ipynb) | The project classification cat an dog using the ImageDataGenerator class from keras.preprocessing.image to load and preprocess images for training the model. |
 | 19. | [Shopping Intentions](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Shopping_Intentions.ipynb) | "Shopping Intentions" is a machine learning project that aims to predict whether an online shopper will complete a purchase on an e-commerce website. |
 | 20. | [Gender Prediction](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Gender_Prediction.ipynb) | Predict the gender of a person based on their voice characteristics. The code plots histograms of the independent variables for male and female samples to check for any visible differences between the two classes. |
+| 21. | [Location based Recommendation](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Location_based_Recommendation.ipynb) |  Location-based recommendation using the K-Means algorithm with the Yelp dataset from Kaggle. The code then generates a countplot and a barplot of the number and names of the top 20 restaurants with the highest review count and stars. |
 
 
 
