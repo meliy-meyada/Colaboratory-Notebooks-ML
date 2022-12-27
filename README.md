@@ -31,7 +31,7 @@ __Collection of google colaboratory notebooks from Ultimate Data Science Bootcam
 | 23. | [Forest Fires](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Forest_Fires.ipynb) | Forest fires. It starts by mounting Google Drive and reading in the 'fire_archive.csv' file as a Pandas DataFrame called 'forest'. It then checks for missing values, Gets descriptive statistics of the data, and plots a heatmap of the correlations between variables.creates dummy variables for the 'type' column and renames some of the columns for clarity. |
 | 24. | [Car selling Price](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Car_selling_Price.ipynb) |  Defines a few functions to extract certain information from the 'torque', 'mileage', 'engine', and 'max_power' columns, such as the maximum rpm or maximum engine size in cc. These extracted values are then added to the 'cars' DataFrame as new columns. The original columns are then dropped. The training and test sets are then standardized using the StandardScaler function from scikit-learn. |
 | 25. | [Affairs](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Affairs.ipynb) | About people's affairs. The dataset has various columns, such as age, years married, number of children, education level, and occupation.generates a heatmap to visualize the correlation between different columns in the dataset. |
-
+| 26. | [Mushrooms](https://github.com/meliy-meyada/Colaboratory-Notebooks-ML/blob/main/ML-Notebooks/Mushrooms.ipynb) | Project to classify mushrooms as either edible or poisonous based on various characteristics of the mushrooms such as their cap shape, color, and odor. |
 
 
 
